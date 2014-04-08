@@ -1,6 +1,3 @@
-spring_bash_completion
-======================
-
 # Spring completion
 Bash completion support for Ruby on Rails spring command.
 
